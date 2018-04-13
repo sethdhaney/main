@@ -5,26 +5,6 @@
   <title>The Homepage of Seth Haney</title>
 </head>
 
-<body><hr>
-<table width="100%" border="2" cellspacing="0" cellpadding="0"> 
-<tbody><tr bgcolor="AA0000" align="CENTER" valign="MIDDLE">
-  <td> <a href="index.html"><h2>Home</h2></a></td>
-    <td> <a href="Research.html"><h2>Research</h2></a></td>
-    <td> <a href="teaching.html"><h2>Teaching</h2></a></td>
-    <td> <a href="CurriculumVitae.pdf"><h2>CV</h2></a></td>
-    </tr>
-  </tbody></table>
-<hr>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-  <td colspan="3" rowspan="7"><img src="Web_Background.jpg"></td>
-  <td><h1>Seth Haney, Ph. D.</h1></td></tr>
-  <tr><td><h3>Department of Medicine</h3></td></tr>
-  	<tr><td><a href="http://www.ucsd.edu/">University of California, San Diego</a></td></tr>
-	<tr><td>9500 Gilman Drive</td></tr>
-	<tr><td>La Jolla, CA</td></tr>
-	<tr><td><h3>email: sethdhaney [AT] gmail [DOT] com</h3></td></tr>
-</tbody></table>
 
 <hr>
         
@@ -49,7 +29,7 @@ a.	Finelli LA, Haney S, Bazhenov M, Stopfer M, Sejnowski TJ (2008) Synaptic lear
 </p>
 <p>
 
-b.	 Haney S, Saha D, Raman B, Bazhenov M (2015) Adaptation and background invariant odor recognition. Poster Presentation. SFN 2104.
+b.	 Haney S, Saha D, Raman B, Bazhenov M (2018) Differential Effects of Adaptation on Odor Discrimination. J Neurophysiol. doi: 10.1152/jn.00389.2017.
 </p>
 <p>
 
@@ -63,7 +43,10 @@ Cancer is a dynamic disease.  Many forms of cancer (for example chronic myelogen
 a.	Haney S, Bardwell L, Nie Q (2010) Ultrasensitive responses and specificity in cell signaling. BMC Sys Biol. 4:119.
 </p>
 <p>
-b.	Haney S, Reya T, Bazhenov M (2015) Loss of feedback leads to delayed onset of symptoms in chronic myelogenous leukemia. Talk. Q-bio 2015.
+b.	Haney S, Reya T, Bazhenov M (2016) Delayed onset of symptoms through feedback interference in chronic cancers. Convergent Science Physical Oncology 2 (4), 045002.
+</p>
+<p>
+c.	Haney S, Konen J, Marcus AI, Bazhenov M (2018) The Complex Ecosystem in Non-Small Cell Lung Cancer Invasion. PLoS Comput Biol. accepted. 
 </p>
 <p>
 
@@ -79,6 +62,9 @@ a.	Cattivera M, Haney S, Siepielski A (2012) Mean exit time as a metric of ecolo
 </p>
 <p>
 b.	Haney S, Cattivera M, Siepielski A (2015) Temporal variation in niches and the ecological equivalence of species. Theo Ecol. DOI:10.1007/s12080-015-0267-7.
+</p>
+<p>
+b.	Haney S, Siepielski A (2018) Tipping Points in Resource Abundance Drive Irreversible Changes in Community Structure. The American Naturalist 191 (5), 000-000.
 </p>
 
 <h2><u> Current Projects</u></h2>
@@ -110,11 +96,13 @@ Synaptic learning rules and sparse coding in a model sensory system.</a> PLoS Co
 
 <li><b>Haney S</b>, Cattivera M, Siepielski A (2015) Temporal variation in niches and the ecological equivalence of species. Theo Ecol. DOI:10.1007/s12080-015-0267-7.</li>
 
-<li><b>Haney S</b>, Saha D, Raman B, Bazhenov M (2015) Adaptation and background invariant odor recognition. <em>in prep</em>. </li>
+<li><b>Haney S</b>, Reya T, Bazhenov M (2016) Delayed Onset of Symptoms Through Feedback Interference in Chronic Cancers <em>Convergent Science Physical Oncology 2 (4), 045002.</em>. </li>
 
-<li><b>Haney S</b>, Reya T, Bazhenov M (2015) Delayed Onset of Symptoms Through Feedback Interference in Chronic Cancers <em>in prep</em>. </li>
+<li><b> Haney S</b>, Saha D, Raman B, Bazhenov M (2018) Differential Effects of Adaptation on Odor Discrimination. J Neurophysiol. doi: 10.1152/jn.00389.2017. </li>
 
-<li><b>Haney S</b>, Siepielski A (2015) Extreme Environmental Events Produce Long Lasting Effects to Community Structure. <em>in prep</em>. </li> 
+<li><b>	Haney S</b>, Siepielski A (2018) Tipping Points in Resource Abundance Drive Irreversible Changes in Community Structure. The American Naturalist 191 (5), 000-000.</li>
+
+<li><b>	Haney S</b>, Konen J, Marcus AI, Bazhenov M (2018) The Complex Ecosystem in Non-Small Cell Lung Cancer Invasion. PLoS Comput Biol. accepted.</li> 
 
 </ol>
 			
@@ -127,13 +115,6 @@ FORTRAN, C/C++, OpenCL, OpenMP, GPGPU Computing, MATLAB and other
 <p>
 </p><p>
 
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">                           
-  <tbody><tr bgcolor="#AA0000">                                                                  
-  <td width="50%"></td>                                                                     
-  <td align="RIGHT"> Copyright Seth Haney 2015 </td>                                      
-  </tr>                                                                                   
-</tbody></table>                     
 
 
 </p></body></html>
